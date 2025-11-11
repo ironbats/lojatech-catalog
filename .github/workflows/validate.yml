@@ -20,6 +20,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: npm i -g ajv-cli
+      - run: npm i -g ajv-cli@5
       - run: ls -la && ls -la schema
-      - run: ajv validate -c ajv2020 -s schema/products.schema.json -d products.json
+      - run: ajv validate -s schema/products.schema.json -d products.json --spec=draft2020
