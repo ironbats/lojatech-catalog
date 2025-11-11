@@ -1,4 +1,4 @@
-name: Catalog Loja Tech
+name: Product Catalog Loja Tech
 on:
   pull_request:
     paths: [ "products.json", "schema/**" ]
