@@ -1,0 +1,21 @@
+name: Validate catalog
+on:
+  pull_request:
+    paths:
+      - "products.json"
+      - "schema/**"
+  push:
+    branches: ["main"]
+    paths:
+      - "products.json"
+      - "schema/**"
+jobs:
+  ajv:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm i -g ajv-cli
+      - run: ajv validate -s schema/product.schema.json -d products.json

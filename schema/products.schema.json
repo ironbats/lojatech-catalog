@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["products"],
+  "properties": {
+    "products": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "price", "tags"],
+        "properties": {
+          "id": {"type": "string"},
+          "name": {"type": "string"},
+          "price": {"type": "number"},
+          "tags": {"type": "array", "items": {"type": "string"}},
+          "gallery": {"type": "array", "items": {"type": "string"}},
+          "colors": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["name", "image"],
+              "properties": {
+                "name": {"type": "string"},
+                "image": {"type": "string"},
+                "hex": {"type": "string"}
+              }
+            }
+          },
+          "digital": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["name", "image"],
+              "properties": {
+                "name": {"type": "string"},
+                "image": {"type": "string"}
+              }
+            }
+          }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": false
+}

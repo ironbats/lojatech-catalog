@@ -1,0 +1,146 @@
+{
+  "products": [
+    {
+      "id": "gopher-plush",
+      "name": "Mascote Golang Pelucia",
+      "desc-01": "Mascote de pelucia.",
+      "desc-02": "Feito sob encomenda.",
+      "desc-03": "Edição limitada.",
+      "price": 49.9,
+      "tags": ["go", "golang", "gopher", "mascote", "oferta"],
+      "gallery": [
+        "https://ironbats.github.io/lojatech-catalog/images/gopher_plush_azul.png",
+        "https://ironbats.github.io/lojatech-catalog/images/gopher_plush_azul_02.png",
+        "https://ironbats.github.io/lojatech-catalog/images/gopher_plush_azul_03.png"
+      ],
+      "colors": [
+        {"name": "Azul", "hex": "#00A7D0", "image": "https://ironbats.github.io/lojatech-catalog/images/gopher_plush_azul.png"},
+        {"name": "Azul escuro", "hex": "#0B5FA5", "image": "https://ironbats.github.io/lojatech-catalog/images/gopher_plush_azulescuro.png"}
+      ]
+    },
+    {
+      "id": "gopher-crochet",
+      "name": "Mascote Golang Crochê",
+      "desc-01": "Mascote de crochê.",
+      "desc-02": "Feito sob encomenda.",
+      "desc-03": "Edição limitada.",
+      "price": 39.9,
+      "tags": ["go", "golang", "croche", "mascote", "oferta"],
+      "gallery": [
+        "https://ironbats.github.io/lojatech-catalog/images/gopher_croche_azulclaro.png",
+        "https://ironbats.github.io/lojatech-catalog/images/gopher_croche_azulclaro_02.png",
+        "https://ironbats.github.io/lojatech-catalog/images/gopher_croche_det2.png"
+      ],
+      "colors": [
+        {"name": "Azul claro", "hex": "#9DD7F5", "image": "https://ironbats.github.io/lojatech-catalog/images/gopher_croche_azulclaro.png"}
+      ]
+    },
+    {
+      "id": "gopher-bundle",
+      "name": "Mascotes Golang  - 3 mascotes",
+      "desc-01": "Mascote de pelucia.",
+      "desc-02": "Feito sob encomenda.",
+      "desc-03": "Edição limitada.",
+      "price": 120.0,
+      "tags": ["go", "golang", "bundle", "mascotes"],
+      "gallery": [
+        "https://ironbats.github.io/lojatech-catalog/images/bundle-gopher-mix.png",
+        "https://ironbats.github.io/lojatech-catalog/images/bundle-gopher-mix2.png",
+        "https://ironbats.github.io/lojatech-catalog/images/bundle-gopher-mix3.png"
+      ],
+      "colors": [
+        {"name": "Azul claro", "hex": "#9DD7F5", "image": "https://ironbats.github.io/lojatech-catalog/images/bundle-gopher-mix.png"}
+      ]
+    },
+    {
+      "id": "gopher-bundle-02",
+      "name": "Mascote Golang - 5 mascotes",
+      "desc-01": "Mascote de pelucia.",
+      "desc-02": "Feito sob encomenda.",
+      "desc-03": "Edição limitada.",
+      "price": 160.0,
+      "tags": ["go", "golang", "bundle", "mascotes"],
+      "gallery": [
+        "https://ironbats.github.io/lojatech-catalog/images/gopher_pelucia_01.png",
+        "https://ironbats.github.io/lojatech-catalog/images/gopher_pelucia_02.png",
+        "https://ironbats.github.io/lojatech-catalog/images/bundle-gopher-mix3.png"
+      ],
+      "colors": [
+        {"name": "Azul claro", "hex": "#9DD7F5", "image": "https://ironbats.github.io/lojatech-catalog/images/bundle-gopher-mix.png"}
+      ]
+    },
+    {
+      "id": "ebook-digital-01",
+      "name": "E-book Software Expert",
+      "desc-01": "Conteúdo atualizado para 2025.",
+      "desc-02": "Atualização vitalicia incluída.",
+      "desc-03": "Produto Digital",
+      "price": 10.99,
+      "tags": ["cursos", "ebook", "produto-digital", "software-expert", "oferta"],
+      "gallery": [
+        "https://ironbats.github.io/lojatech-catalog/images/ebook-software-expert.png"
+      ],
+      "digital": [
+        {"name": "E-book", "image": "https://ironbats.github.io/lojatech-catalog/images/ebook-software-expert.png"}
+      ]
+    },
+    {
+      "id": "master-class-01",
+      "name": "Masterclass Event Driven: Kafka, Clean Code, DDD , Java e Go - Do Jeito certo !!!",
+      "desc-01": "Conteúdo atualizado para 2025.",
+      "desc-02": "Atualização vitalicia incluída.",
+      "desc-03": "Emissão de certificado de conclusão.",
+      "desc-04": "11 horas de conteúdo.",
+      "price": 150.0,
+      "tags": ["master-class", "clean-code", "software-expert", "master"],
+      "gallery": [
+        "https://ironbats.github.io/lojatech-catalog/images/master-class-01.png"
+      ],
+      "digital": [
+        {"name": "Master Class", "image": "https://ironbats.github.io/lojatech-catalog/images/master-class-01.png"}
+      ]
+    },
+    {
+      "id": "python-snake",
+      "name": "Python Snake",
+      "price": 99.9,
+      "tags": ["python", "py", "mascote"],
+      "gallery": [
+        "https://ironbats.github.io/lojatech-catalog/images/python_snake_verde.png",
+        "https://ironbats.github.io/lojatech-catalog/images/python_snake_det1.png",
+        "https://ironbats.github.io/lojatech-catalog/images/python_snake_det2.png"
+      ],
+      "colors": [
+        {"name": "Verde", "hex": "#4CAF50", "image": "https://ironbats.github.io/lojatech-catalog/images/python_snake_verde.png"}
+      ]
+    },
+    {
+      "id": "octocat-node",
+      "name": "Octo Node",
+      "price": 139.9,
+      "tags": ["node", "nodejs", "javascript", "octocat", "mascote"],
+      "gallery": [
+        "https://ironbats.github.io/lojatech-catalog/images/octo_node_preto.png",
+        "https://ironbats.github.io/lojatech-catalog/images/octo_node_det1.png",
+        "https://ironbats.github.io/lojatech-catalog/images/octo_node_det2.png"
+      ],
+      "colors": [
+        {"name": "Preto", "hex": "#000000", "image": "https://ironbats.github.io/lojatech-catalog/images/octo_node_preto.png"}
+      ]
+    },
+    {
+      "id": "java-duke",
+      "name": "Duke Java",
+      "price": 149.9,
+      "tags": ["java", "duke", "mascote"],
+      "gallery": [
+        "https://ironbats.github.io/lojatech-catalog/images/duke_classico.png",
+        "https://ironbats.github.io/lojatech-catalog/images/duke_det1.png",
+        "https://ironbats.github.io/lojatech-catalog/images/duke_det2.png"
+      ],
+      "colors": [
+        {"name": "Clássico", "hex": "#E53935", "image": "https://ironbats.github.io/lojatech-catalog/images/duke_classico.png"}
+      ]
+    }
+  ]
+}
