@@ -1,4 +1,4 @@
-name: Validate catalog Loja Tech
+name: Catalog Loja Tech
 on:
   pull_request:
     paths: [ "products.json", "schema/**" ]
