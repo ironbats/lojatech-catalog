@@ -3,19 +3,18 @@
     {
       "id": "gopher-plush",
       "name": "Mascote Golang Pelucia",
-      "desc-01": "Mascote de pelucia.",
-      "desc-02": "Feito sob encomenda.",
-      "desc-03": "Edição limitada.",
-      "price": 49.9,
-      "tags": ["go", "golang", "gopher", "mascote", "oferta"],
+      "price": 50.04,
+      "tags": [
+        "go",
+        "golang",
+        "gopher",
+        "mascote",
+        "oferta"
+      ],
       "gallery": [
         "https://lojatech-catalog.pages.dev/gopher_plush_azul.png",
         "https://lojatech-catalog.pages.dev/gopher_plush_azul_02.png",
         "https://lojatech-catalog.pages.dev/gopher_plush_azul_03.png"
-      ],
-      "colors": [
-        {"name": "Azul", "hex": "#00A7D0", "image": "https://lojatech-catalog.pages.dev/gopher_plush_azul.png"},
-        {"name": "Azul escuro", "hex": "#0B5FA5", "image": "https://lojatech-catalog.pages.dev/gopher_plush_azulescuro.png"}
       ]
     },
     {
@@ -25,14 +24,24 @@
       "desc-02": "Feito sob encomenda.",
       "desc-03": "Edição limitada.",
       "price": 39.9,
-      "tags": ["go", "golang", "croche", "mascote", "oferta"],
+      "tags": [
+        "go",
+        "golang",
+        "croche",
+        "mascote",
+        "oferta"
+      ],
       "gallery": [
         "https://lojatech-catalog.pages.dev/gopher_croche_azulclaro.png",
         "https://lojatech-catalog.pages.dev/gopher_croche_azulclaro_02.png",
         "https://lojatech-catalog.pages.dev/gopher_croche_det2.png"
       ],
       "colors": [
-        {"name": "Azul claro", "hex": "#9DD7F5", "image": "https://lojatech-catalog.pages.dev/gopher_croche_azulclaro.png"}
+        {
+          "name": "Azul claro",
+          "hex": "#9DD7F5",
+          "image": "https://lojatech-catalog.pages.dev/gopher_croche_azulclaro.png"
+        }
       ]
     },
     {
@@ -41,15 +50,24 @@
       "desc-01": "Mascote de pelucia.",
       "desc-02": "Feito sob encomenda.",
       "desc-03": "Edição limitada.",
-      "price": 120.0,
-      "tags": ["go", "golang", "bundle", "mascotes"],
+      "price": 120,
+      "tags": [
+        "go",
+        "golang",
+        "bundle",
+        "mascotes"
+      ],
       "gallery": [
         "https://lojatech-catalog.pages.dev/bundle-gopher-mix.png",
         "https://lojatech-catalog.pages.dev/bundle-gopher-mix2.png",
         "https://lojatech-catalog.pages.dev/bundle-gopher-mix3.png"
       ],
       "colors": [
-        {"name": "Azul claro", "hex": "#9DD7F5", "image": "https://lojatech-catalog.pages.dev/bundle-gopher-mix.png"}
+        {
+          "name": "Azul claro",
+          "hex": "#9DD7F5",
+          "image": "https://lojatech-catalog.pages.dev/bundle-gopher-mix.png"
+        }
       ]
     },
     {
@@ -58,15 +76,24 @@
       "desc-01": "Mascote de pelucia.",
       "desc-02": "Feito sob encomenda.",
       "desc-03": "Edição limitada.",
-      "price": 160.0,
-      "tags": ["go", "golang", "bundle", "mascotes"],
+      "price": 160,
+      "tags": [
+        "go",
+        "golang",
+        "bundle",
+        "mascotes"
+      ],
       "gallery": [
         "https://lojatech-catalog.pages.dev/gopher_pelucia_01.png",
         "https://lojatech-catalog.pages.dev/gopher_pelucia_02.png",
         "https://lojatech-catalog.pages.dev/bundle-gopher-mix3.png"
       ],
       "colors": [
-        {"name": "Azul claro", "hex": "#9DD7F5", "image": "https://lojatech-catalog.pages.dev/bundle-gopher-mix.png"}
+        {
+          "name": "Azul claro",
+          "hex": "#9DD7F5",
+          "image": "https://lojatech-catalog.pages.dev/bundle-gopher-mix.png"
+        }
       ]
     },
     {
@@ -76,12 +103,21 @@
       "desc-02": "Atualização vitalicia incluída.",
       "desc-03": "Produto Digital",
       "price": 10.99,
-      "tags": ["cursos", "ebook", "produto-digital", "software-expert", "oferta"],
+      "tags": [
+        "cursos",
+        "ebook",
+        "produto-digital",
+        "software-expert",
+        "oferta"
+      ],
       "gallery": [
         "https://lojatech-catalog.pages.dev/ebook-software-expert.png"
       ],
       "digital": [
-        {"name": "E-book", "image": "https://lojatech-catalog.pages.dev/ebook-software-expert.png"}
+        {
+          "name": "E-book",
+          "image": "https://lojatech-catalog.pages.dev/ebook-software-expert.png"
+        }
       ]
     },
     {
@@ -91,27 +127,43 @@
       "desc-02": "Atualização vitalicia incluída.",
       "desc-03": "Emissão de certificado de conclusão.",
       "desc-04": "11 horas de conteúdo.",
-      "price": 150.0,
-      "tags": ["master-class", "clean-code", "software-expert", "master"],
+      "price": 150,
+      "tags": [
+        "master-class",
+        "clean-code",
+        "software-expert",
+        "master"
+      ],
       "gallery": [
         "https://lojatech-catalog.pages.dev/master-class-01.png"
       ],
       "digital": [
-        {"name": "Master Class", "image": "https://lojatech-catalog.pages.dev/master-class-01.png"}
+        {
+          "name": "Master Class",
+          "image": "https://lojatech-catalog.pages.dev/master-class-01.png"
+        }
       ]
     },
     {
       "id": "python-snake",
       "name": "Python Snake",
       "price": 99.9,
-      "tags": ["python", "py", "mascote"],
+      "tags": [
+        "python",
+        "py",
+        "mascote"
+      ],
       "gallery": [
         "https://lojatech-catalog.pages.dev/python_snake_verde.png",
         "https://lojatech-catalog.pages.dev/python_snake_det1.png",
         "https://lojatech-catalog.pages.dev/python_snake_det2.png"
       ],
       "colors": [
-        {"name": "Verde", "hex": "#4CAF50", "image": "https://lojatech-catalog.pages.dev/python_snake_verde.png"}
+        {
+          "name": "Verde",
+          "hex": "#4CAF50",
+          "image": "https://lojatech-catalog.pages.dev/python_snake_verde.png"
+        }
       ]
     }
   ]
