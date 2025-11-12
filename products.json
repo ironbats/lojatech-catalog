@@ -9,13 +9,13 @@
       "price": 49.9,
       "tags": ["go", "golang", "gopher", "mascote", "oferta"],
       "gallery": [
-        "https://ironbats.github.io/lojatech-catalog/images/gopher_plush_azul.png",
-        "https://ironbats.github.io/lojatech-catalog/images/gopher_plush_azul_02.png",
-        "https://ironbats.github.io/lojatech-catalog/images/gopher_plush_azul_03.png"
+        "https://lojatech-catalog.pages.dev/gopher_plush_azul.png",
+        "https://lojatech-catalog.pages.dev/gopher_plush_azul_02.png",
+        "https://lojatech-catalog.pages.dev/gopher_plush_azul_03.png"
       ],
       "colors": [
-        {"name": "Azul", "hex": "#00A7D0", "image": "https://ironbats.github.io/lojatech-catalog/images/gopher_plush_azul.png"},
-        {"name": "Azul escuro", "hex": "#0B5FA5", "image": "https://ironbats.github.io/lojatech-catalog/images/gopher_plush_azulescuro.png"}
+        {"name": "Azul", "hex": "#00A7D0", "image": "https://lojatech-catalog.pages.dev/gopher_plush_azul.png"},
+        {"name": "Azul escuro", "hex": "#0B5FA5", "image": "https://lojatech-catalog.pages.dev/gopher_plush_azulescuro.png"}
       ]
     },
     {
@@ -27,12 +27,12 @@
       "price": 39.9,
       "tags": ["go", "golang", "croche", "mascote", "oferta"],
       "gallery": [
-        "https://ironbats.github.io/lojatech-catalog/images/gopher_croche_azulclaro.png",
-        "https://ironbats.github.io/lojatech-catalog/images/gopher_croche_azulclaro_02.png",
-        "https://ironbats.github.io/lojatech-catalog/images/gopher_croche_det2.png"
+        "https://lojatech-catalog.pages.dev/gopher_croche_azulclaro.png",
+        "https://lojatech-catalog.pages.dev/gopher_croche_azulclaro_02.png",
+        "https://lojatech-catalog.pages.dev/gopher_croche_det2.png"
       ],
       "colors": [
-        {"name": "Azul claro", "hex": "#9DD7F5", "image": "https://ironbats.github.io/lojatech-catalog/images/gopher_croche_azulclaro.png"}
+        {"name": "Azul claro", "hex": "#9DD7F5", "image": "https://lojatech-catalog.pages.dev/gopher_croche_azulclaro.png"}
       ]
     },
     {
@@ -44,12 +44,12 @@
       "price": 120.0,
       "tags": ["go", "golang", "bundle", "mascotes"],
       "gallery": [
-        "https://ironbats.github.io/lojatech-catalog/images/bundle-gopher-mix.png",
-        "https://ironbats.github.io/lojatech-catalog/images/bundle-gopher-mix2.png",
-        "https://ironbats.github.io/lojatech-catalog/images/bundle-gopher-mix3.png"
+        "https://lojatech-catalog.pages.dev/bundle-gopher-mix.png",
+        "https://lojatech-catalog.pages.dev/bundle-gopher-mix2.png",
+        "https://lojatech-catalog.pages.dev/bundle-gopher-mix3.png"
       ],
       "colors": [
-        {"name": "Azul claro", "hex": "#9DD7F5", "image": "https://ironbats.github.io/lojatech-catalog/images/bundle-gopher-mix.png"}
+        {"name": "Azul claro", "hex": "#9DD7F5", "image": "https://lojatech-catalog.pages.dev/bundle-gopher-mix.png"}
       ]
     },
     {
@@ -61,12 +61,12 @@
       "price": 160.0,
       "tags": ["go", "golang", "bundle", "mascotes"],
       "gallery": [
-        "https://ironbats.github.io/lojatech-catalog/images/gopher_pelucia_01.png",
-        "https://ironbats.github.io/lojatech-catalog/images/gopher_pelucia_02.png",
-        "https://ironbats.github.io/lojatech-catalog/images/bundle-gopher-mix3.png"
+        "https://lojatech-catalog.pages.dev/gopher_pelucia_01.png",
+        "https://lojatech-catalog.pages.dev/gopher_pelucia_02.png",
+        "https://lojatech-catalog.pages.dev/bundle-gopher-mix3.png"
       ],
       "colors": [
-        {"name": "Azul claro", "hex": "#9DD7F5", "image": "https://ironbats.github.io/lojatech-catalog/images/bundle-gopher-mix.png"}
+        {"name": "Azul claro", "hex": "#9DD7F5", "image": "https://lojatech-catalog.pages.dev/bundle-gopher-mix.png"}
       ]
     },
     {
@@ -78,10 +78,10 @@
       "price": 10.99,
       "tags": ["cursos", "ebook", "produto-digital", "software-expert", "oferta"],
       "gallery": [
-        "https://ironbats.github.io/lojatech-catalog/images/ebook-software-expert.png"
+        "https://lojatech-catalog.pages.dev/ebook-software-expert.png"
       ],
       "digital": [
-        {"name": "E-book", "image": "https://ironbats.github.io/lojatech-catalog/images/ebook-software-expert.png"}
+        {"name": "E-book", "image": "https://lojatech-catalog.pages.dev/ebook-software-expert.png"}
       ]
     },
     {
@@ -94,10 +94,10 @@
       "price": 150.0,
       "tags": ["master-class", "clean-code", "software-expert", "master"],
       "gallery": [
-        "https://ironbats.github.io/lojatech-catalog/images/master-class-01.png"
+        "https://lojatech-catalog.pages.dev/master-class-01.png"
       ],
       "digital": [
-        {"name": "Master Class", "image": "https://ironbats.github.io/lojatech-catalog/images/master-class-01.png"}
+        {"name": "Master Class", "image": "https://lojatech-catalog.pages.dev/master-class-01.png"}
       ]
     },
     {
@@ -106,12 +106,12 @@
       "price": 99.9,
       "tags": ["python", "py", "mascote"],
       "gallery": [
-        "https://ironbats.github.io/lojatech-catalog/images/python_snake_verde.png",
-        "https://ironbats.github.io/lojatech-catalog/images/python_snake_det1.png",
-        "https://ironbats.github.io/lojatech-catalog/images/python_snake_det2.png"
+        "https://lojatech-catalog.pages.dev/python_snake_verde.png",
+        "https://lojatech-catalog.pages.dev/python_snake_det1.png",
+        "https://lojatech-catalog.pages.dev/python_snake_det2.png"
       ],
       "colors": [
-        {"name": "Verde", "hex": "#4CAF50", "image": "https://ironbats.github.io/lojatech-catalog/images/python_snake_verde.png"}
+        {"name": "Verde", "hex": "#4CAF50", "image": "https://lojatech-catalog.pages.dev/python_snake_verde.png"}
       ]
     }
   ]
