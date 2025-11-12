@@ -169,6 +169,25 @@
           "image": "https://raw.githubusercontent.com/ironbats/lojatech-catalog/main/images/python.png"
         }
       ]
+    },
+    {
+      "id": "skin-python-smart-watch",
+      "name": "Python Watch Skin",
+      "price": 7.99,
+      "tags": [
+        "python",
+        "produto-digital"
+      ],
+      "desc-01": "Skin smart watch ",
+      "desc-02": "Pagamento pelo WhatsApp",
+      "desc-03": "",
+      "desc-04": "",
+      "gallery": [
+        "https://lojatech-catalog.pages.dev/python_bg_metalico.png",
+        "https://lojatech-catalog.pages.dev/python_bg_neon_futurista.png",
+        "https://lojatech-catalog.pages.dev/python_bg_neon.png"
+      ],
+      "colors": []
     }
   ]
 }
