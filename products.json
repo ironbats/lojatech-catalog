@@ -15,7 +15,18 @@
         "https://lojatech-catalog.pages.dev/gopher_plush_azul.png",
         "https://lojatech-catalog.pages.dev/gopher_plush_azul_02.png",
         "https://lojatech-catalog.pages.dev/gopher_plush_azul_03.png"
-      ]
+      ],
+      "colors": [
+        {
+          "name": "Azul royal",
+          "hex": "#1874ec",
+          "image": "https://lojatech-catalog.pages.dev/gopher_plush_azul.png"
+        }
+      ],
+      "desc-01": "",
+      "desc-02": "",
+      "desc-03": "",
+      "desc-04": ""
     },
     {
       "id": "gopher-crochet",
