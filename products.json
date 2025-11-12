@@ -113,34 +113,6 @@
       "colors": [
         {"name": "Verde", "hex": "#4CAF50", "image": "https://ironbats.github.io/lojatech-catalog/images/python_snake_verde.png"}
       ]
-    },
-    {
-      "id": "octocat-node",
-      "name": "Octo Node",
-      "price": 139.9,
-      "tags": ["node", "nodejs", "javascript", "octocat", "mascote"],
-      "gallery": [
-        "https://ironbats.github.io/lojatech-catalog/images/octo_node_preto.png",
-        "https://ironbats.github.io/lojatech-catalog/images/octo_node_det1.png",
-        "https://ironbats.github.io/lojatech-catalog/images/octo_node_det2.png"
-      ],
-      "colors": [
-        {"name": "Preto", "hex": "#000000", "image": "https://ironbats.github.io/lojatech-catalog/images/octo_node_preto.png"}
-      ]
-    },
-    {
-      "id": "java-duke",
-      "name": "Duke Java",
-      "price": 149.9,
-      "tags": ["java", "duke", "mascote"],
-      "gallery": [
-        "https://ironbats.github.io/lojatech-catalog/images/duke_classico.png",
-        "https://ironbats.github.io/lojatech-catalog/images/duke_det1.png",
-        "https://ironbats.github.io/lojatech-catalog/images/duke_det2.png"
-      ],
-      "colors": [
-        {"name": "Clássico", "hex": "#E53935", "image": "https://ironbats.github.io/lojatech-catalog/images/duke_classico.png"}
-      ]
     }
   ]
 }
