@@ -143,28 +143,6 @@
           "image": "https://lojatech-catalog.pages.dev/master-class-01.png"
         }
       ]
-    },
-    {
-      "id": "python-snake",
-      "name": "Python Snake",
-      "price": 99.9,
-      "tags": [
-        "python",
-        "py",
-        "mascote"
-      ],
-      "gallery": [
-        "https://lojatech-catalog.pages.dev/python_snake_verde.png",
-        "https://lojatech-catalog.pages.dev/python_snake_det1.png",
-        "https://lojatech-catalog.pages.dev/python_snake_det2.png"
-      ],
-      "colors": [
-        {
-          "name": "Verde",
-          "hex": "#4CAF50",
-          "image": "https://lojatech-catalog.pages.dev/python_snake_verde.png"
-        }
-      ]
     }
   ]
 }
