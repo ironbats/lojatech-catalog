@@ -193,6 +193,30 @@
         "https://lojatech-catalog.pages.dev/python_retro.png"
       ],
       "colors": []
+    },
+    {
+      "id": "64616015",
+      "name": "Masterclass - Construa seu APP",
+      "price": 70,
+      "tags": [
+        "curso",
+        "oferta",
+        "app",
+        "software",
+        "master-class",
+        "android",
+        "flutter"
+      ],
+      "desc-01": "10 dias de aula",
+      "desc-02": "Pagamento via Whatsapp",
+      "desc-03": "Certificado de conclusão",
+      "desc-04": "Publicação na Playstore",
+      "gallery": [
+        "https://lojatech-catalog.pages.dev/app.png",
+        "https://lojatech-catalog.pages.dev/app-03.png",
+        "https://lojatech-catalog.pages.dev/app-04.png"
+      ],
+      "colors": []
     }
   ]
 }
