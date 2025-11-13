@@ -217,6 +217,30 @@
         "https://lojatech-catalog.pages.dev/app-04.png"
       ],
       "colors": []
+    },
+    {
+      "id": "32881747",
+      "name": "Masterclass - Introdução a programação",
+      "price": 70,
+      "tags": [
+        "curso",
+        "oferta",
+        "app",
+        "software",
+        "master-class",
+        "android",
+        "flutter"
+      ],
+      "desc-01": "15 dias de aula",
+      "desc-02": "Pagamento via Whatsapp",
+      "desc-03": "Certificado de conclusão",
+      "desc-04": "Uso de inteligência Artificial",
+      "gallery": [
+        "https://lojatech-catalog.pages.dev/programacao-01.png",
+        "https://lojatech-catalog.pages.dev/programacao-02.png",
+        "https://lojatech-catalog.pages.dev/programacao-03.png"
+      ],
+      "colors": []
     }
   ]
 }
