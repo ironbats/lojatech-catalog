@@ -156,32 +156,6 @@
       ]
     },
     {
-      "id": "python-snake",
-      "name": "Mascote Python",
-      "price": 34.99,
-      "tags": [
-        "python",
-        "software",
-        "mascote"
-      ],
-      "desc-01": "Edição Limitada",
-      "desc-02": "Feito sob encomenda",
-      "desc-03": "Venda por whatsapp",
-      "desc-04": "",
-      "gallery": [
-        "https://raw.githubusercontent.com/ironbats/lojatech-catalog/main/images/python.png",
-        "https://raw.githubusercontent.com/ironbats/lojatech-catalog/main/images/python.png",
-        "https://raw.githubusercontent.com/ironbats/lojatech-catalog/main/images/python.png"
-      ],
-      "colors": [
-        {
-          "name": "Verde",
-          "hex": "#34d554",
-          "image": "https://raw.githubusercontent.com/ironbats/lojatech-catalog/main/images/python.png"
-        }
-      ]
-    },
-    {
       "id": "skin-python-smart-watch",
       "name": "Python Watch Skin",
       "price": 7.99,
