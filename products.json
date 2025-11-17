@@ -18,14 +18,14 @@
       ],
       "colors": [
         {
-          "name": "Azul",
-          "hex": "#0c1adf",
+          "name": "Azul royal",
+          "hex": "#077eed",
           "image": "https://lojatech-catalog.pages.dev/gopher_plush_azul.png"
         }
       ],
-      "desc-01": "",
-      "desc-02": "",
-      "desc-03": "",
+      "desc-01": "Mascote feito sob encomenda",
+      "desc-02": "Material de pelucia",
+      "desc-03": "Pagamento por whatsapp",
       "desc-04": ""
     },
     {
@@ -215,6 +215,7 @@
       "desc-03": "Certificado de conclusão",
       "desc-04": "Publicação na Playstore",
       "gallery": [
+        "https://lojatech-catalog.pages.dev/app-04.png",
         "https://lojatech-catalog.pages.dev/app-04.png"
       ],
       "colors": []
