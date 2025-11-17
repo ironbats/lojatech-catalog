@@ -212,6 +212,8 @@
       "desc-03": "Certificado de conclusão",
       "desc-04": "Publicação na Playstore",
       "gallery": [
+        "https://lojatech-catalog.pages.dev/app.png",
+        "https://lojatech-catalog.pages.dev/app-03.png",
         "https://lojatech-catalog.pages.dev/app-04.png"
       ],
       "colors": []
@@ -234,8 +236,6 @@
       "desc-03": "Certificado de conclusão",
       "desc-04": "Uso de inteligência Artificial",
       "gallery": [
-        "https://lojatech-catalog.pages.dev/programacao-01.png",
-        "https://lojatech-catalog.pages.dev/programacao-03.png",
         "https://lojatech-catalog.pages.dev/programacao-02.png"
       ],
       "colors": []
