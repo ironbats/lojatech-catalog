@@ -138,22 +138,25 @@
       "desc-02": "Atualização vitalicia incluída.",
       "desc-03": "Emissão de certificado de conclusão.",
       "desc-04": "11 horas de conteúdo.",
-      "price": 150,
+      "price": 140,
       "tags": [
         "master-class",
         "clean-code",
         "software-expert",
-        "master"
+        "master",
+        "java",
+        "go"
       ],
       "gallery": [
-        "https://lojatech-catalog.pages.dev/master-class-01.png"
+        "https://lojatech-catalog.pages.dev/master-class.png"
       ],
       "digital": [
         {
           "name": "Master Class",
           "image": "https://lojatech-catalog.pages.dev/master-class-01.png"
         }
-      ]
+      ],
+      "colors": []
     },
     {
       "id": "skin-python-smart-watch",
