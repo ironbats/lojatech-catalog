@@ -150,12 +150,7 @@
       "gallery": [
         "https://lojatech-catalog.pages.dev/master-class.png"
       ],
-      "digital": [
-        {
-          "name": "Master Class",
-          "image": "https://lojatech-catalog.pages.dev/master-class-01.png"
-        }
-      ],
+      "digital": [],
       "colors": []
     },
     {
