@@ -161,7 +161,7 @@
     {
       "id": "skin-python-smart-watch",
       "name": "Python Watch Skin",
-      "price": 7.99,
+      "price": 3.99,
       "tags": [
         "python",
         "produto-digital"
@@ -175,7 +175,13 @@
         "https://lojatech-catalog.pages.dev/python_bg_neon_futurista.png",
         "https://lojatech-catalog.pages.dev/python_bg_neon.png"
       ],
-      "colors": []
+      "colors": [],
+      "digital": [
+        {
+          "name": "Digital",
+          "image": "https://lojatech-catalog.pages.dev/python_bg_metalico.png"
+        }
+      ]
     },
     {
       "id": "11058643",
