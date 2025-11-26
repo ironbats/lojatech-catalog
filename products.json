@@ -242,6 +242,35 @@
         "https://lojatech-catalog.pages.dev/programacao-02.png"
       ],
       "colors": []
+    },
+    {
+      "id": "84704997",
+      "name": "Micro Labs - Architecture Platform",
+      "desc-01": "Assinatura anual",
+      "desc-02": "Suporte prioritário",
+      "desc-03": "www.microlabs.com.br",
+      "desc-04": "Analise de risco arquitetural global",
+      "price": 15,
+      "tags": [
+        "master-class",
+        "clean-code",
+        "software-expert",
+        "master",
+        "java",
+        "go",
+        "microlabs"
+      ],
+      "gallery": [
+        "https://lojatech-catalog.pages.dev/1764185270660_microlabs.png",
+        "https://lojatech-catalog.pages.dev/1764185309480_microlabs-2.png"
+      ],
+      "digital": [
+        {
+          "name": "Digital",
+          "image": "https://lojatech-catalog.pages.dev/1764185371992_microlabs-3.png"
+        }
+      ],
+      "colors": []
     }
   ]
 }
