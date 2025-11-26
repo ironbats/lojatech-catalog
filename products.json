@@ -271,6 +271,40 @@
         }
       ],
       "colors": []
+    },
+    {
+      "id": "48666777",
+      "name": "Mascote Pelucia Java",
+      "price": 35,
+      "tags": [
+        "golang",
+        "gopher",
+        "mascote",
+        "oferta",
+        "java",
+        "masterclass"
+      ],
+      "gallery": [
+        "https://lojatech-catalog.pages.dev/1764185475267_java-01.png",
+        "https://lojatech-catalog.pages.dev/1764185486399_java-02.png"
+      ],
+      "colors": [
+        {
+          "name": "Preto",
+          "hex": "#000000",
+          "image": "https://lojatech-catalog.pages.dev/1764185475267_java-01.png"
+        },
+        {
+          "name": "Branco",
+          "hex": "#FFFFFF",
+          "image": "https://lojatech-catalog.pages.dev/1764185475267_java-01.png"
+        }
+      ],
+      "desc-01": "Mascote feito sob encomenda",
+      "desc-02": "Material de pelucia",
+      "desc-03": "Pagamento por whatsapp",
+      "desc-04": "Apaixonados por Java",
+      "digital": []
     }
   ]
 }
